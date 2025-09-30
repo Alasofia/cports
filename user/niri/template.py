@@ -26,6 +26,7 @@ makedepends = [
     "pixman-devel",
     "rust-std",
     "udev-devel",
+    "xwayland-satellite",
 ]
 depends = [
     "so:libEGL.so.1!mesa-egl-libs",
